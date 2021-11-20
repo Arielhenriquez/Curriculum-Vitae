@@ -8,23 +8,24 @@ body,header
 
 h1
 {
-    font-size: 25px;
+    font-size: 20px;
     position: relative;
-    left: 40px;
+    left: 80px;
 }
 
 
 .info 
 {
     position: relative;
-    left: 60px;
-    font-size: 16px;
+    left: 80px;
+    font-size: 14px;
 }
 
 div,section 
 {
    position: relative;
-    right: 150px; 
+   right: 170px; 
+   font-size: 14px;
 }
 
 .image 
@@ -36,7 +37,7 @@ div,section
 {
     position: fixed;
     top: 0px;
-    left: 5px;
+    left: 0px;
     width: 90px;
 }
 
