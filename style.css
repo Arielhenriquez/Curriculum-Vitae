@@ -1,0 +1,53 @@
+body 
+{
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+.info 
+{
+    text-align: center;
+    font-size: 18px;
+    right: 100px;
+}
+h1
+{
+    text-align: center;
+    text-transform: uppercase;
+    color: #006fc0;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h2 
+{
+    color: #006fc0;
+    border-style: ridge;
+}
+
+.image-main,figure
+{
+    position: relative;
+    left:250px;
+    bottom: 150px;
+} 
+
+section 
+{
+    width: 500px;
+    font-size: 18px;
+    position: relative;
+    left: 35%;
+    bottom: 150px;
+}
+
+ul,li 
+{
+    padding: 5px;
+}
+
+.Reference 
+{
+    position: relative;
+    left:295px;
+    bottom: 78px;
+}

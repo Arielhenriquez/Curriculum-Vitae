@@ -1,0 +1,19 @@
+/*Great Screen */
+.image 
+{
+    position: relative;
+}
+
+.image-main,img 
+{
+    position: fixed;
+    top: 0px;
+    left: 10%;
+}
+
+.main,section
+{
+    position: relative;
+    top: 10px;
+}
+

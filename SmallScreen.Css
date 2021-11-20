@@ -1,0 +1,58 @@
+/*Small screen */
+body,header
+{
+    text-align: center;
+    width: 100%;
+}
+
+h1
+{
+    font-size: 25px;
+}
+
+.info 
+{
+    position: inherit;
+    font-size: 16px;
+}
+
+div,section 
+{
+    position: relative;
+    right: 150px;
+}
+
+.image 
+{
+    position: relative;
+}
+
+.image,img 
+{
+    position: fixed;
+    top: 0px;
+    left: 5px;
+    width: 90px;
+}
+
+section
+{
+    position: relative;
+    top: 10px;
+}
+
+ul,li 
+{
+    list-style: none;
+}
+
+.Reference 
+{
+    position: inherit;
+}
+
+
+
+
+
+

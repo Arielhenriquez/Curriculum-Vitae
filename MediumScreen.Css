@@ -1,0 +1,25 @@
+/*Medium Screen */
+header 
+{
+    position: relative;
+    left: 100px;
+}
+
+.image-medium 
+{
+    position: relative;
+}
+
+.image-medium,img 
+{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+}
+section
+{
+    position: relative;
+    top: 50px;
+}
+
