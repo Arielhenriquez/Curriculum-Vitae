@@ -5,6 +5,11 @@ header
     left: 100px;
 }
 
+.main{ 
+    position: relative;
+    right:200px;
+ }
+
 .image-medium 
 {
     position: relative;
@@ -12,11 +17,14 @@ header
 
 .image-medium,img 
 {
-    position: absolute;
+    position: fixed;
     top: 0px;
-    left: 10px;
-    width: 150px;
+    left: 0px;
+    padding-left: 50px;
+    width: 100%;
+    max-width: 100px;
 }
+
 section
 {
     position: relative;
